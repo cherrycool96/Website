@@ -320,7 +320,7 @@ Full-Width Styles
   width: 210px;
   z-index: 10;
   bottom: -40px;
-  right: 0;
+  right: -50;
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
