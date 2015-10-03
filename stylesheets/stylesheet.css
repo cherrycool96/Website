@@ -317,10 +317,10 @@ Full-Width Styles
 
 #downloads {
   position: absolute;
-  width: 210px;
+  width: 300px;
   z-index: 10;
   bottom: -40px;
-  right: -50;
+  right: 0;
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
